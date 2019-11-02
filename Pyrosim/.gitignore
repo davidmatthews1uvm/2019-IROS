@@ -1,0 +1,49 @@
+
+# python files
+*.pyc
+*.p
+*__pycache__
+
+*.o
+*.d
+*.pyc
+*.p
+*.egg*
+*.ppm
+dist/
+build/
+log
+rundemos.sh
+makedocs.sh
+pyrosim/test
+pyrosim/simulator/tmp
+pyrosim/frame
+./frame
+
+
+# Files touched from compiling pyrosim
+*.o
+*.d
+*Makefile
+*.log
+*.status
+*.la
+*.lo
+*.Plo
+*.a
+*.lai
+*.Po
+
+# pyrosim simulator
+pyrosim/simulator/simulator
+
+# pyrosim demos
+**/demo/demo_*
+
+# ode 
+**/ode-0.12/*
+
+# coverage files
+.coverage
+htmlcov
+
