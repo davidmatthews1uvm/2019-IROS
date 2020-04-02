@@ -1,8 +1,19 @@
 # About
 
-## Please cite as:
-
-D. Matthews, S. Kriegman, C. Cappelle and J. Bongard, "Word2vec to behavior: morphology facilitates the grounding of language in machines," 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Macau, China, 2019.
+## BibTex
+<pre>
+@INPROCEEDINGS{Matthews2019morphology,
+&nbsp;&nbsp; author={D. {Matthews} and S. {Kriegman} and C. {Cappelle} and J. {Bongard}},
+&nbsp;&nbsp; booktitle={2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+&nbsp;&nbsp; title={Word2vec to behavior: morphology facilitates the grounding of language in machines.},
+&nbsp;&nbsp; year={2019},
+&nbsp;&nbsp; doi={10.1109/IROS40897.2019.8967639},
+&nbsp;&nbsp; url={<a href="https://ieeexplore.ieee.org/document/8967639">https://ieeexplore.ieee.org/document/8967639</a>},
+&nbsp;&nbsp; volume={},
+&nbsp;&nbsp; number={},
+&nbsp;&nbsp; pages={4153-4160},
+}
+</pre>
 
 # Install
 ## Simulation
